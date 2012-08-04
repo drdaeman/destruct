@@ -8,6 +8,8 @@ and parse them to Python objects.
 The library is not mature by any means. Things may break, and API may
 significantly change in future.
 
+.. image:: https://secure.travis-ci.org/drdaeman/destruct.png?branch=master
+
 Example
 -------
 
