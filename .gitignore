@@ -1,0 +1,14 @@
+*.tmp
+*.bak
+*~
+
+__pycache__
+*.py[cod]
+
+/dist
+/sdist
+/build
+/MANIFEST
+
+/.virtualenv
+/.coverage
